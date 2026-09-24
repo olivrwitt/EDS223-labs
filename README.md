@@ -1,2 +1,2 @@
-# EDS223-labs
-repo for eds223 labs
+# EDS223 Geospatial Data - Labs
+This is the repo for the lab sections of EDS223 Geospatial Data
